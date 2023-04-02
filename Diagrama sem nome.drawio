@@ -1,9 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T16:44:23.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" version="21.1.2" etag="qU_GU7l-JvEM--knl1U0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-02T18:34:17.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="decT0yh8K825Jnvi2iux" version="21.1.2" type="github">
   <diagram name="Página-1" id="2Ptvhzt_i48_mJHpRBuN">
-    <mxGraphModel>
+    <mxGraphModel dx="607" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D16hpOU0ap1t-5sU_G8I-2" target="D16hpOU0ap1t-5sU_G8I-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;INÍCIO&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="369" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-9" value="sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D16hpOU0ap1t-5sU_G8I-6" target="D16hpOU0ap1t-5sU_G8I-8">
+          <mxGeometry x="-0.3665" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-11" value="não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="D16hpOU0ap1t-5sU_G8I-6" target="D16hpOU0ap1t-5sU_G8I-10">
+          <mxGeometry x="-0.3836" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-6" value="Para uma pessoa?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="70" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D16hpOU0ap1t-5sU_G8I-8" target="D16hpOU0ap1t-5sU_G8I-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-8" value="Pegue 1 pacote" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D16hpOU0ap1t-5sU_G8I-10" target="D16hpOU0ap1t-5sU_G8I-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-10" value="Pegue a quantidade de pacotes igual ao número de pessoas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D16hpOU0ap1t-5sU_G8I-12" target="D16hpOU0ap1t-5sU_G8I-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-12" value="Pegue uma panela adequada e adicione a quantia necessária de água" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D16hpOU0ap1t-5sU_G8I-17" target="D16hpOU0ap1t-5sU_G8I-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-17" value="Leve a panela ao fogão e ligue-o em fogo médio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D16hpOU0ap1t-5sU_G8I-21" target="D16hpOU0ap1t-5sU_G8I-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-21" value="Coloque o(s) macarrão(ôes) na panela" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D16hpOU0ap1t-5sU_G8I-23" target="D16hpOU0ap1t-5sU_G8I-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-23" value="Adicione o tempero e mecha o macarrão" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D16hpOU0ap1t-5sU_G8I-25" target="D16hpOU0ap1t-5sU_G8I-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-25" value="Após a água ferver, aguarde 10 minutos até que o macarrão cozinhe&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D16hpOU0ap1t-5sU_G8I-31" target="D16hpOU0ap1t-5sU_G8I-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-31" value="Desligue o fogão" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D16hpOU0ap1t-5sU_G8I-43" target="D16hpOU0ap1t-5sU_G8I-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-43" value="Escoe o macarrão num escorredor de macarrão" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D16hpOU0ap1t-5sU_G8I-45" target="D16hpOU0ap1t-5sU_G8I-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-45" value="Coloque numa travessa adequada" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-47" value="Sirva" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D16hpOU0ap1t-5sU_G8I-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
